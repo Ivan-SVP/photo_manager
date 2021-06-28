@@ -1,9 +1,9 @@
 ### deploy
 
-git clone https://github.com/Ivan-SVP/photo_manager.git
+git clone https://github.com/Ivan-SVP/photo_manager.git  
 docker-compose up
 
-есть пользователь: login, pass: admin, admin
+есть пользователь: login, pass: admin, admin  
 роут: HOST/api/photos
 
 ### Комментарии исполнителя:
