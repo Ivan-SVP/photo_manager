@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "==3.2.4"
+django-soft_delete = "==0.9.18"
+djangorestframework = "==3.12.4"
+pillow = "==8.2.0"
+
+[requires]
+python_version = "3.6"
+
+[dev-packages]
+factory-boy = "*"
